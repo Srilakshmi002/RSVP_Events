@@ -4,3 +4,6 @@ data/rsvps.json
 data/host.json
 .DS_Store
 *.log
+.env
+.env.*
+!.env.example

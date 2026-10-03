@@ -1,0 +1,9 @@
+{
+  "framework": "vite",
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist",
+  "functions": { "api/rsvp.js": { "maxDuration": 60 } },
+  "rewrites": [
+    { "source": "/rsvp/:path*", "destination": "/index.html" }
+  ]
+}

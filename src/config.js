@@ -22,7 +22,7 @@ export const SITE_CONFIG = {
       time: "10:30 AM",
       venue: "Our Home",
       address: "11305 Summer Rain Blvd, Aubrey, TX 76225",
-      rsvpDeadline: "[Add RSVP deadline]",
+      rsvpDeadline: "October 07, 2026",
       attendMessage:
         "We are so happy you will join the Haldi on October 11, 2026 at 10:30 AM. Your presence will brighten the turmeric ceremony, and a vegetarian meal will be served as we celebrate together.",
       declineMessage:
@@ -37,7 +37,7 @@ export const SITE_CONFIG = {
       time: "5:00 PM",
       venue: "Our Home",
       address: "11305 Summer Rain Blvd, Aubrey, TX 76225",
-      rsvpDeadline: "[Add RSVP deadline]",
+      rsvpDeadline: "October 07, 2026",
       attendMessage:
         "We are delighted you will join Pelli Kuthuru & Pelli Koduku on October 12, 2026 at 5:00 PM. This is one combined ceremony, and a vegetarian meal will be served as both families celebrate together.",
       declineMessage:
@@ -52,7 +52,7 @@ export const SITE_CONFIG = {
       time: "10:00 AM",
       venue: "Our Home",
       address: "11305 Summer Rain Blvd, Aubrey, TX 76225",
-      rsvpDeadline: "[Add RSVP deadline]",
+      rsvpDeadline: "October 07, 2026",
       attendMessage:
         "We are grateful you will join the Sri Satyanarayana Swamy Vratham on October 15, 2026 at 10:00 AM. Your presence will add to the devotion of the day, and a vegetarian meal will be served.",
       declineMessage:
